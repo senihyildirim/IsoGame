@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbe274f5fe840c49a8997ef0c2c535b, type: 3}
+  m_Name: Surface_3
+  m_EditorClassIdentifier: 
+  pieceID: 3
+  pieceModel: {fileID: 4148273450737188765, guid: 74d5a91b3c6a0dc489dbf9a028f4431c,
+    type: 3}
+  isCollected: 0
+  dropChance: 16.66667
