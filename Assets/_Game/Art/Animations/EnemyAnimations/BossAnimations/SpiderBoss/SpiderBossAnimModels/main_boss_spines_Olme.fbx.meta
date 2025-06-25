@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 1654bf14d8e95814eb47b1f46e570c38
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Armature
+    - Armature/Bone
+    - Armature/Bone/spine4
+    - Armature/Bone/spine4/head1
+    - Armature/Bone/spine4/head1/eyelash.L
+    - Armature/Bone/spine4/head1/eyelash.L/eyelash.L.001
+    - Armature/Bone/spine4/head1/eyelash.L/eyelash.L.001/eyelash.L.001_end
+    - Armature/Bone/spine4/head1/eyelash.L.002
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.L.003
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.L.003/eyelash.L.004
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.L.003/eyelash.L.004/eyelash.L.004_end
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.R.003
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.R.003/eyelash.R.004
+    - Armature/Bone/spine4/head1/eyelash.L.002/eyelash.R.003/eyelash.R.004/eyelash.R.004_end
+    - Armature/Bone/spine4/head1/eyelash.R
+    - Armature/Bone/spine4/head1/eyelash.R/eyelash.R.001
+    - Armature/Bone/spine4/head1/eyelash.R/eyelash.R.001/eyelash.R.001_end
+    - Armature/Bone/spine4/head1/head2
+    - Armature/Bone/spine4/head1/head2/horn1.l
+    - Armature/Bone/spine4/head1/head2/horn1.l/horn2.l
+    - Armature/Bone/spine4/head1/head2/horn1.l/horn2.l/horn2.l_end
+    - Armature/Bone/spine4/head1/head2/horn1.r
+    - Armature/Bone/spine4/head1/head2/horn1.r/horn2.r
+    - Armature/Bone/spine4/head1/head2/horn1.r/horn2.r/horn2.r_end
+    - Armature/Bone/spine4/Leg9.l
+    - Armature/Bone/spine4/Leg9.l/Leg10.l
+    - Armature/Bone/spine4/Leg9.l/Leg10.l/Leg11.l
+    - Armature/Bone/spine4/Leg9.l/Leg10.l/Leg11.l/Leg11.l_end
+    - Armature/Bone/spine4/Leg9.r
+    - Armature/Bone/spine4/Leg9.r/Leg10.r
+    - Armature/Bone/spine4/Leg9.r/Leg10.r/Leg11.r
+    - Armature/Bone/spine4/Leg9.r/Leg10.r/Leg11.r/Leg11.r_end
+    - Armature/Bone/spine4/Leg13.l
+    - Armature/Bone/spine4/Leg13.l/Leg14.l
+    - Armature/Bone/spine4/Leg13.l/Leg14.l/Leg15.l
+    - Armature/Bone/spine4/Leg13.l/Leg14.l/Leg15.l/Leg15.l_end
+    - Armature/Bone/spine4/Leg13.r
+    - Armature/Bone/spine4/Leg13.r/Leg14.r
+    - Armature/Bone/spine4/Leg13.r/Leg14.r/Leg15.r
+    - Armature/Bone/spine4/Leg13.r/Leg14.r/Leg15.r/Leg15.r_end
+    - Armature/Bone/spine4/spiene3
+    - Armature/Bone/spine4/spiene3/Leg5.l
+    - Armature/Bone/spine4/spiene3/Leg5.l/Leg6.l
+    - Armature/Bone/spine4/spiene3/Leg5.l/Leg6.l/Leg7.l
+    - Armature/Bone/spine4/spiene3/Leg5.l/Leg6.l/Leg7.l/Leg7.l_end
+    - Armature/Bone/spine4/spiene3/Leg5.r
+    - Armature/Bone/spine4/spiene3/Leg5.r/Leg6.r
+    - Armature/Bone/spine4/spiene3/Leg5.r/Leg6.r/Leg7.r
+    - Armature/Bone/spine4/spiene3/Leg5.r/Leg6.r/Leg7.r/Leg7.r_end
+    - Armature/Bone/spine4/spiene3/spine2
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.l
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.l/Leg2.l
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.l/Leg2.l/Leg3.l
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.l/Leg2.l/Leg3.l/Leg3.l_end
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.r
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.r/Leg2.r
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.r/Leg2.r/Leg3.r
+    - Armature/Bone/spine4/spiene3/spine2/Leg1.r/Leg2.r/Leg3.r/Leg3.r_end
+    - Armature/Bone/spine4/spiene3/spine2/spine1
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth1.L
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth1.L/mouth1.L_end
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth1.R
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth1.R/mouth1.R_end
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth2.L
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth2.L/mouth2.L_end
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth2.R
+    - Armature/Bone/spine4/spiene3/spine2/spine1/mouth2.R/mouth2.R_end
+    - Armature/Bone/spine5
+    - Armature/Bone/spine5/spine5_end
+    - Armature/Leg4IK.l
+    - Armature/Leg4IK.l/Leg4IK.l_end
+    - Armature/Leg4IK.r
+    - Armature/Leg4IK.r/Leg4IK.r_end
+    - Armature/Leg8IK.l
+    - Armature/Leg8IK.l/Leg8IK.l_end
+    - Armature/Leg8IK.r
+    - Armature/Leg8IK.r/Leg8IK.r_end
+    - Armature/Leg12IK.l
+    - Armature/Leg12IK.l/Leg12IK.l_end
+    - Armature/Leg12IK.r
+    - Armature/Leg12IK.r/Leg12IK.r_end
+    - Armature/Leg16IK.l
+    - Armature/Leg16IK.l/Leg16IK.l_end
+    - Armature/Leg16IK.r
+    - Armature/Leg16IK.r/Leg16IK.r_end
+    - main_boss_body_low
+    - main_boss_body_low.001
+    - main_boss_body_low.002
+    - main_boss_body_low.003
+    - main_boss_body_low.004
+    - main_boss_body_low.005
+    - main_boss_body_low.006
+    - main_boss_body_low.007
+    - main_boss_body_low.008
+    - main_boss_body_low.009
+    - main_boss_legs_low.001
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      internalID: 4781951162920444690
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

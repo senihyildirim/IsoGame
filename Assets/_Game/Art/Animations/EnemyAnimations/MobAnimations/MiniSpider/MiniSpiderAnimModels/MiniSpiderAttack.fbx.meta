@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 5ec1630791feb4f4ea12875f0da2a7a4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      internalID: 4781951162920444690
+      firstFrame: 125
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: MiniSpiderRun(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: low.001
+      parentName: MiniSpiderRun(Clone)
+      position: {x: 0.0000000018626448, y: 0.58866745, z: 0.6774432}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 99.999985, y: 99.999985, z: 99.999985}
+    - name: Armature
+      parentName: MiniSpiderRun(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.4575417, y: -0.08758609, z: 0.09873415, w: 0.8793383}
+      scale: {x: 32.36673, y: 32.36673, z: 32.36673}
+    - name: Bone
+      parentName: Armature
+      position: {x: 0.0049118875, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: Bone.002
+      parentName: Bone
+      position: {x: 0.000016940832, y: 0.03339032, z: -0.012468827}
+      rotation: {x: -0.3802379, y: 0.00092890044, z: -0.0003818873, w: 0.92488825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.002_end
+      parentName: Bone.002
+      position: {x: -0, y: 0.021781065, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003
+      parentName: Bone
+      position: {x: 0.000016940832, y: 0.03339032, z: -0.012468827}
+      rotation: {x: 0.9454494, y: -0.0008858154, z: 0.0101779075, w: 0.32560888}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999964}
+    - name: Bone.004
+      parentName: Bone.003
+      position: {x: -8.381903e-11, y: 0.009941169, z: 3.8184225e-10}
+      rotation: {x: -0.8290024, y: -0.092758805, z: -0.47986883, w: 0.27180284}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: Bone.005
+      parentName: Bone.004
+      position: {x: -5.3696565e-11, y: 0.007467465, z: 9.220093e-10}
+      rotation: {x: 0.050404347, y: 0.0047313594, z: -0.0012028862, w: 0.99871695}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: Bone.006
+      parentName: Bone.005
+      position: {x: 3.312016e-10, y: 0.0075370297, z: 1.10594554e-10}
+      rotation: {x: -0.28271878, y: -0.00048041012, z: 0.00024267212, w: 0.95920277}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: Bone.006_end
+      parentName: Bone.006
+      position: {x: -0, y: 0.017386917, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak1.l
+      parentName: Bone.005
+      position: {x: -0.007872075, y: 0.0064536724, z: 0.0059529087}
+      rotation: {x: -0.40864968, y: 0.0037523303, z: 0.39757064, w: 0.8215406}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: bacak2.l
+      parentName: bacak1.l
+      position: {x: -0, y: 0.02156468, z: -2.9802322e-10}
+      rotation: {x: 0.7797137, y: 0.21636997, z: 0.2264225, w: 0.54218394}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999976}
+    - name: bacak2.l_end
+      parentName: bacak2.l
+      position: {x: -0, y: 0.01940264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak1.r
+      parentName: Bone.005
+      position: {x: 0.007986531, y: 0.0064939545, z: 0.005914469}
+      rotation: {x: -0.40960148, y: -0.0027989612, z: -0.39449096, w: 0.8225544}
+      scale: {x: 1.0000004, y: 1, z: 0.9999994}
+    - name: bacak2.r
+      parentName: bacak1.r
+      position: {x: 0.0000000019744038, y: 0.021564683, z: 0.0000000015646219}
+      rotation: {x: 0.7797137, y: -0.21636976, z: -0.22642274, w: 0.542184}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000002}
+    - name: bacak2.r_end
+      parentName: bacak2.r
+      position: {x: -0, y: 0.01940264, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak4.l
+      parentName: Bone.004
+      position: {x: -0.011726393, y: 0.009563776, z: 0.0070245843}
+      rotation: {x: -0.16723102, y: 0.55216706, z: -0.6703032, w: -0.46673232}
+      scale: {x: 0.99999994, y: 0.9999994, z: 1.0000002}
+    - name: bacak5.l
+      parentName: bacak4.l
+      position: {x: -2.8871e-10, y: 0.02168694, z: -7.45058e-10}
+      rotation: {x: -0.05073827, y: -0.16975972, z: 0.8568328, w: -0.48419496}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.0000008}
+    - name: bacak5.l_end
+      parentName: bacak5.l
+      position: {x: -0, y: 0.02412076, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak4.r
+      parentName: Bone.004
+      position: {x: 0.012002927, y: 0.009583836, z: 0.0067462795}
+      rotation: {x: 0.1588917, y: 0.557744, z: -0.6718233, w: 0.46079117}
+      scale: {x: 0.99999905, y: 0.99999917, z: 0.99999976}
+    - name: bacak5.r
+      parentName: bacak4.r
+      position: {x: -0.0000000021979212, y: 0.021686938, z: -2.9802322e-10}
+      rotation: {x: 0.050738208, y: -0.16975994, z: 0.8568328, w: 0.4841951}
+      scale: {x: 1, y: 0.99999976, z: 1.0000002}
+    - name: bacak5.r_end
+      parentName: bacak5.r
+      position: {x: -0, y: 0.02412076, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak7.l
+      parentName: Bone.003
+      position: {x: -0.012837589, y: 0.015828524, z: 0.0056807837}
+      rotation: {x: -0.75400186, y: 0.5680867, z: 0.17910731, w: 0.27691013}
+      scale: {x: 0.9999994, y: 0.9999995, z: 0.9999999}
+    - name: bacak8.l
+      parentName: bacak7.l
+      position: {x: -0.000000002500601, y: 0.013694878, z: -5.2154064e-10}
+      rotation: {x: -0.059472762, y: -0.00847879, z: 0.021899996, w: 0.99795365}
+      scale: {x: 1, y: 0.99999964, z: 1.0000001}
+    - name: bacak8.l_end
+      parentName: bacak8.l
+      position: {x: -0, y: 0.020055074, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bacak7.r
+      parentName: Bone.003
+      position: {x: 0.012843728, y: 0.015615246, z: 0.006160315}
+      rotation: {x: -0.68546987, y: -0.6480337, z: -0.21430887, w: 0.2534859}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000005}
+    - name: bacak8.r
+      parentName: bacak7.r
+      position: {x: 2.9802322e-10, y: 0.013694871, z: -2.9802322e-10}
+      rotation: {x: -0.010821108, y: 0.07116637, z: 0.16781348, w: -0.98318714}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: bacak8.r_end
+      parentName: bacak8.r
+      position: {x: -0, y: 0.020055074, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak9_\u0131k.l"
+      parentName: Armature
+      position: {x: -0.028017746, y: 0.005525025, z: 0.0013850915}
+      rotation: {x: 0.48532727, y: -0.51469344, z: 0.5006538, w: 0.49889272}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: "bacak9_\u0131k.l_end"
+      parentName: "bacak9_\u0131k.l"
+      position: {x: -0, y: 0.018333234, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak6_\u0131k.l"
+      parentName: Armature
+      position: {x: -0.028896129, y: -0.0050041704, z: 0.010794229}
+      rotation: {x: 0.7771769, y: -0.06761619, z: -0.38711512, w: -0.49149373}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "bacak6_\u0131k.l_end"
+      parentName: "bacak6_\u0131k.l"
+      position: {x: -0, y: 0.017394172, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak3_\u0131k.l"
+      parentName: Armature
+      position: {x: -0.022600072, y: -0.012664898, z: 0.0023317828}
+      rotation: {x: 0.70585775, y: -0.7051821, z: -0.04201013, w: -0.052137345}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1.0000001}
+    - name: "bacak3_\u0131k.l_end"
+      parentName: "bacak3_\u0131k.l"
+      position: {x: -0, y: 0.017032849, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak9_\u0131k.r"
+      parentName: Armature
+      position: {x: 0.028027726, y: 0.028943695, z: 0.0025048577}
+      rotation: {x: 0.48532727, y: 0.51469344, z: -0.5006538, w: 0.49889272}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: "bacak9_\u0131k.r_end"
+      parentName: "bacak9_\u0131k.r"
+      position: {x: -0, y: 0.018333234, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak6_\u0131k.r"
+      parentName: Armature
+      position: {x: 0.028943388, y: -0.00243927, z: 0.0014110684}
+      rotation: {x: 0.8438414, y: -0.15976353, z: 0.27535525, w: -0.43195692}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "bacak6_\u0131k.r_end"
+      parentName: "bacak6_\u0131k.r"
+      position: {x: -0, y: 0.017394172, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "bacak3_\u0131k.r"
+      parentName: Armature
+      position: {x: 0.022598637, y: -0.035296395, z: 0.0011119322}
+      rotation: {x: 0.70585775, y: 0.7051821, z: 0.04201013, w: -0.052137345}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1.0000001}
+    - name: "bacak3_\u0131k.r_end"
+      parentName: "bacak3_\u0131k.r"
+      position: {x: -0, y: 0.017032849, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 6e48a1e3a484b234aa735556f474ec10,
+    type: 2}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
